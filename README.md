@@ -10,6 +10,10 @@
   - [ ] Broken links
 - [ ] API Checklist 
 - [ ] Port Checklist 
+- [ ] Formular Checklist
+- [ ] Login Checklist
+- [ ] Newsletter Form Checklist
+- [ ] Picture Upload Checklist
 
 # Disclaimer: DONT BE A JERK!
 Needless to mention, please use this tool very very carefully. The authors won't be responsible for any consequences.
