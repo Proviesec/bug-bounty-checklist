@@ -16,7 +16,7 @@
 - [ ] Picture Upload Checklist
 - [ ] Website Parameter Checklist
 - [ ] Website Serach Checlist
-- [ ] Website 
+- [ ] Website overall check 
 
 
 # Disclaimer: DONT BE A JERK!
