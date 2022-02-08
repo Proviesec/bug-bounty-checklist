@@ -15,7 +15,7 @@
 - [ ] Newsletter Form Checklist
 - [ ] Picture Upload Checklist
 - [ ] Website Parameter Checklist
-- [ ] Website Serach Checlist
+- [ ] Website Search Checlist
 - [ ] Website overall check 
 
 
