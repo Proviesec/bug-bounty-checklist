@@ -1,5 +1,5 @@
 Denial of Service
- Test for anti-automation
- Test for account lockout
- Test for HTTP protocol DoS
- Test for SQL wildcard DoS
+- [ ] Test - anti-automation
+- [ ] Test - account lockout
+- [ ] Test - HTTP protocol DoS
+- [ ] Test - SQL wildcard DoS
