@@ -5,6 +5,8 @@
 
 # bug-bounty-checklist
 
+- [ ] Single Domain - How to 
+- [ ] Information Gathering 
 - [ ] All recon todos 
   - [ ] Subdomains
   - [ ] Broken links
