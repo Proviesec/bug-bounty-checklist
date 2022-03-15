@@ -5,6 +5,7 @@
 
 # bug-bounty-checklist
 
+- [ ] search tool
 - [ ] Single Domain - How to 
 - [ ] Information Gathering 
 - [ ] All recon todos 
